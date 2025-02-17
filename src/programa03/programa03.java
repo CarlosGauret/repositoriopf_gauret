@@ -35,5 +35,11 @@ public class programa03 {
         // salida de datos
         System.out.println("La comisión de la venta es: " + c);
         System.out.println("El sueldo mensual del vendedor es: " + pT);
+        
+                // Mensaje adicional corregido
+        System.out.println("Hola Mundo");
+
+        // Cerrar el Scanner
+        lectura.close();
     }
 }
